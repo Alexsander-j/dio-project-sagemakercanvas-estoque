@@ -11,6 +11,7 @@ O objetivo deste projeto é criar um modelo de machine learning que seja capaz d
 
 ## Como foi feito
 
+> o dataset utilizado foi o `dataset-1000-com-preco-variavel-e-renovacao-estoque.csv`
 - Primeiramente, foi feita a análise exploratória dos dados, para entender o dataset.
 - Em seguida, foi feito o upload do dataset no SageMaker canvas.
 - As variáveis foram selecionadas e o modelo foi treinado.
